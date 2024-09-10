@@ -19,28 +19,24 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Provided Mock-up Dashboard
 <p align="center">
-    <img src="" width="600">
+    <img src="![Screenshot 2024-09-10 at 12 53 13 PM](https://github.com/user-attachments/assets/8be4f835-3fd3-49a1-8406-c5dfed1d2215)" width="600">
 </p>
 
 
 ## Data Model
 
 <p align="center">
-    <img src='' height="400">
+    <img src='![Screenshot 2024-09-10 at 12 53 29 PM](https://github.com/user-attachments/assets/a3c23ec0-0873-4cc6-82a4-5e4555a69778)' height="400">
 </p>
 
 
 ## Overall Analysis View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='![Screenshot 2024-09-10 at 12 53 51 PM](https://github.com/user-attachments/assets/4662ab3a-049d-4b2f-bfed-94dacee1c1f9)' width="600">
 </p>
 
-## Monthly Analysis View
 
-<p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/monthly_view.png' width="600">
-</p>
 
 ## Learnt things from this Project 
 - Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. ([Article referred](https://www.linkedin.com/pulse/calendar-matrix-syed-ahmed-ali/?trackingId=VgyLpo%2BYxVRs8tD03PXcPQ%3D%3D))
