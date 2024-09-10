@@ -18,23 +18,18 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ## Provided Mock-up Dashboard
-<p align="center">
-    <img src="![Screenshot 2024-09-10 at 12 53 13 PM](https://github.com/user-attachments/assets/8be4f835-3fd3-49a1-8406-c5dfed1d2215)" width="600">
-</p>
+   "![Screenshot 2024-09-10 at 12 53 13 PM](https://github.com/user-attachments/assets/8be4f835-3fd3-49a1-8406-c5dfed1d2215)
 
 
 ## Data Model
 
-<p align="center">
-    <img src='![Screenshot 2024-09-10 at 12 53 29 PM](https://github.com/user-attachments/assets/a3c23ec0-0873-4cc6-82a4-5e4555a69778)' height="400">
-</p>
+'![Screenshot 2024-09-10 at 12 53 29 PM](https://github.com/user-attachments/assets/a3c23ec0-0873-4cc6-82a4-5e4555a69778)' 
+
 
 
 ## Overall Analysis View
 
-<p align="center">
-    <img src='![Screenshot 2024-09-10 at 12 53 51 PM](https://github.com/user-attachments/assets/4662ab3a-049d-4b2f-bfed-94dacee1c1f9)' width="600">
-</p>
+ '![Screenshot 2024-09-10 at 12 53 51 PM](https://github.com/user-attachments/assets/4662ab3a-049d-4b2f-bfed-94dacee1c1f9)'
 
 
 
